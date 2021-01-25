@@ -10,19 +10,24 @@
 <h2 align="center">  My Portfolio: https://aleksandrov.app/</h2>
 
 
-<h2 align="center">  Stuff about me 🎮🕹 </h2>
+<h2 align="center">  Stuff about me </h2>
 
 I currently have experience in Mobile Development and have released several mobile applications on behalf of my client.
 
 <h2 align="center">  Languages and Tools </h2>
 
-<img align="left" alt="Unreal" width="25px" src="https://icon-library.net//images/unreal-engine-4-icon/unreal-engine-4-icon-13.jpg" />
-<img align="left" alt="Unity" width="25px" src="https://icon-library.net//images/unity-icon/unity-icon-26.jpg" />
+
 <img align="left" alt="Python" width="25px" src="https://icon-library.net//images/icon-python/icon-python-16.jpg" />
-<img align="left" alt="Tensorflow" width="25px" src="https://api.iconify.design/logos-tensorflow.svg" />
-<img align="left" alt="Keras" width="25px" src="https://img.stackshare.io/service/5601/keras.png" />
-<img align="left" alt="C++" width="25px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="C#" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1024px-C_Sharp_logo.svg.png" />
+
+<img align="left" alt="Xcode" width="25px" src="https://3d.bk.tudelft.nl/ken/img/blog/xcode-logo.jpg" />
+<img align="left" alt="Android" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-3/228/android-512.png" />
+<img align="left" alt="iOS" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" />
+<img align="left" alt="PHP" width="25px" src="https://pngimg.com/uploads/php/php_PNG12.png" />
+<img align="left" alt="Javascript" width="25px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
+
+<img align="left" alt="Xamarin" width="25px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />
+
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
