@@ -20,10 +20,10 @@ I currently have experience in Mobile Development and have released several mobi
 <img align="left" alt="Python" width="25px" src="https://icon-library.net//images/icon-python/icon-python-16.jpg" />
 <img align="left" alt="C#" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1024px-C_Sharp_logo.svg.png" />
 
-<img align="left" alt="Xcode" width="25px" src="https://3d.bk.tudelft.nl/ken/img/blog/xcode-logo.jpg" />
+<img align="left" alt="Xcode" width="25px" src="https://toppng.com/uploads/preview/xcode-image-xcode-logo-1156316053201wd5yor6h.png" />
 <img align="left" alt="Android" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-3/228/android-512.png" />
 <img align="left" alt="iOS" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" />
-<img align="left" alt="PHP" width="25px" src="https://pngimg.com/uploads/php/php_PNG12.png" />
+<img align="left" alt="PHP" width="25px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />
 <img align="left" alt="Javascript" width="25px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
 
 <img align="left" alt="Xamarin" width="25px" src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" />
