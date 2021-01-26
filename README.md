@@ -7,14 +7,14 @@
 <body>
 <h2 align="center"> I am currently a Computer Science student, working with mobile development in cross platform (iOS, Android).</h2>
   
-<h2 align="center">  My Portfolio: https://aleksandrov.app/</h2>
+<h2 align="center">  My Portfolio: https://aleksandrov.app</h2>
 
 
-<h2 align="center">  Stuff about me </h2>
+<h2 align="center">  About me </h2>
 
 I currently have experience in Mobile Development and have released several mobile applications on behalf of my client.
 
-<h2 align="center">  Languages and Tools </h2>
+<h2 align="center">  Languages and Frameworks </h2>
 
 
 <img align="left" alt="Python" width="25px" src="https://icon-library.net//images/icon-python/icon-python-16.jpg" />
@@ -37,7 +37,7 @@ I currently have experience in Mobile Development and have released several mobi
 <br />
 
 
-<h2 align="center">  Connect with me! <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></h2>
+<h2 align="center">  Find me on: <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></h2>
 <p>
 <a href="https://www.linkedin.com/in/justin-a-74001b1a7/">
 <img src="https://img.shields.io/badge/linkedin-%233776AB.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
